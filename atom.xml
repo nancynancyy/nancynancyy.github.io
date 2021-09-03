@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nancy</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-09-03T17:17:32&#43;08:00</updated>
-    <id>https://nancynancyy.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://nancynancyy.github.io/atom.xml" />
+    <updated>2021-09-03T18:39:18&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
             <name>Nancy</name>
-            <uri>https://nancynancyy.github.io/</uri>
+            <uri>https://example.com/</uri>
             
                 <email>nancy_nxj@qq.com</email>
             </author>
@@ -18,13 +18,13 @@
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
         <entry>
             <title type="text">喜欢宝贝</title>
-            <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/20210902/" />
-            <id>https://nancynancyy.github.io/posts/20210902/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/20210902/" />
+            <id>https://example.com/posts/20210902/</id>
             <updated>2021-09-02T21:33:50&#43;08:00</updated>
             <published>2021-09-02T21:07:08&#43;08:00</published>
             <author>
                     <name>Nancy</name>
-                    <uri>https://nancynancyy.github.io/</uri>
+                    <uri>https://io-oi.me/</uri>
                     <email>nancy_nxj@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">吃了随便滴吃的   我吃了煎饼果子，宝吃了一个汉堡，然后我们还一人吃了个￥5的香肠，这是宝拿到第一桶金请我吃滴，但是我拿到第一桶金请宝的￥2的香肠还木有实现，下次一定要记得。</summary>
@@ -43,13 +43,13 @@
     
         <entry>
             <title type="text">Today</title>
-            <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/today/" />
-            <id>https://nancynancyy.github.io/posts/today/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/today/" />
+            <id>https://example.com/posts/today/</id>
             <updated>2021-09-02T21:33:39&#43;08:00</updated>
             <published>2021-09-01T20:26:44&#43;08:00</published>
             <author>
                     <name>Nancy</name>
-                    <uri>https://nancynancyy.github.io/</uri>
+                    <uri>https://io-oi.me/</uri>
                     <email>nancy_nxj@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">今天是完美的一天   和宝一起吃黄焖鸡米饭和小笼包   黄焖鸡米饭辣辣的还挺好吃的，米饭里面还有玉米（应该是玉米），小笼包也好吃</summary>
@@ -68,13 +68,13 @@
     
         <entry>
             <title type="text">20210831</title>
-            <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/20210831/" />
-            <id>https://nancynancyy.github.io/posts/20210831/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/20210831/" />
+            <id>https://example.com/posts/20210831/</id>
             <updated>2021-08-31T15:41:13&#43;08:00</updated>
             <published>2021-08-31T15:40:55&#43;08:00</published>
             <author>
                     <name>Nancy</name>
-                    <uri>https://nancynancyy.github.io/</uri>
+                    <uri>https://io-oi.me/</uri>
                     <email>nancy_nxj@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">床前明月光，疑是地上霜。 举头望明月，低头思故乡。</summary>
@@ -93,13 +93,13 @@
     
         <entry>
             <title type="text">Firstpost</title>
-            <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/firstpost/" />
-            <id>https://nancynancyy.github.io/posts/firstpost/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/firstpost/" />
+            <id>https://example.com/posts/firstpost/</id>
             <updated>2021-08-31T13:55:31&#43;08:00</updated>
             <published>2021-08-31T13:52:46&#43;08:00</published>
             <author>
                     <name>Nancy</name>
-                    <uri>https://nancynancyy.github.io/</uri>
+                    <uri>https://io-oi.me/</uri>
                     <email>nancy_nxj@qq.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Hello, world! 你好！</summary>

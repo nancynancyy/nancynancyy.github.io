@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Nancy</title>
-        <link>https://nancynancyy.github.io/</link>
+        <link>https://example.com/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.87.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 03 Sep 2021 17:17:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 18:39:18 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://nancynancyy.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
                 <title>喜欢宝贝</title>
-                <link>https://nancynancyy.github.io/posts/20210902/</link>
-                <guid isPermaLink="true">https://nancynancyy.github.io/posts/20210902/</guid>
+                <link>https://example.com/posts/20210902/</link>
+                <guid isPermaLink="true">https://example.com/posts/20210902/</guid>
                 <pubDate>Thu, 02 Sep 2021 21:07:08 &#43;0800</pubDate>
                 
                     <author>nancy_nxj@qq.com (Nancy)</author>
@@ -53,8 +53,8 @@
         
             <item>
                 <title>Today</title>
-                <link>https://nancynancyy.github.io/posts/today/</link>
-                <guid isPermaLink="true">https://nancynancyy.github.io/posts/today/</guid>
+                <link>https://example.com/posts/today/</link>
+                <guid isPermaLink="true">https://example.com/posts/today/</guid>
                 <pubDate>Wed, 01 Sep 2021 20:26:44 &#43;0800</pubDate>
                 
                     <author>nancy_nxj@qq.com (Nancy)</author>
@@ -76,8 +76,8 @@
         
             <item>
                 <title>20210831</title>
-                <link>https://nancynancyy.github.io/posts/20210831/</link>
-                <guid isPermaLink="true">https://nancynancyy.github.io/posts/20210831/</guid>
+                <link>https://example.com/posts/20210831/</link>
+                <guid isPermaLink="true">https://example.com/posts/20210831/</guid>
                 <pubDate>Tue, 31 Aug 2021 15:40:55 &#43;0800</pubDate>
                 
                     <author>nancy_nxj@qq.com (Nancy)</author>
@@ -99,8 +99,8 @@
         
             <item>
                 <title>Firstpost</title>
-                <link>https://nancynancyy.github.io/posts/firstpost/</link>
-                <guid isPermaLink="true">https://nancynancyy.github.io/posts/firstpost/</guid>
+                <link>https://example.com/posts/firstpost/</link>
+                <guid isPermaLink="true">https://example.com/posts/firstpost/</guid>
                 <pubDate>Tue, 31 Aug 2021 13:52:46 &#43;0800</pubDate>
                 
                     <author>nancy_nxj@qq.com (Nancy)</author>
