@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nancy</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-09-13T21:13:06&#43;08:00</updated>
+    <updated>2021-09-22T11:07:15&#43;08:00</updated>
     <id>https://nancynancyy.github.io/</id>
     <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://nancynancyy.github.io/atom.xml" />
@@ -16,6 +16,34 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">昨天中秋</title>
+            <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/20210922/" />
+            <id>https://nancynancyy.github.io/posts/20210922/</id>
+            <updated>2021-09-22T11:06:59&#43;08:00</updated>
+            <published>2021-09-22T10:35:01&#43;08:00</published>
+            <author>
+                    <name>Nancy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>nancy_nxj@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">昨天是中秋节 跟宝视频啦
+昨天本来他打的是语音电话，然后我都点了接听，但是同时他又给取消了，我以为是他点错了，一秒钟后他又打了过来，我接了以后才发现是视频电话，宝躺在被窝里，还木有穿衣服：）
+宝还做了我的表情包，555，炒鸡丑，像外星人，他还说好看，555
+还给宝展示了我新打的耳洞，新买的好看项链。</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">不完美的榴莲</title>
             <link rel="alternate" type="text/html" href="https://nancynancyy.github.io/posts/20210913/" />
